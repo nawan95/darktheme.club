@@ -233,6 +233,11 @@
   method: mediaquery
   last_checked: 2023-04-17
 
+- domain: nawan.my.id
+  url: https://nawan.my.id/
+  method: mediaquery
+  last_checked: 2023-08-11
+
 - domain: nih.ar
   url: https://nih.ar/
   method: mediaquery
